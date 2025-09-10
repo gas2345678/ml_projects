@@ -18,3 +18,16 @@ Goal: Predict if a customer is considered 'Best Seller' or not depending on his/
 Models Used:
   - Logistic Regression
 
+
+
+
+## Amazon products reviews
+
+
+Description:Description of different products and their critics
+
+Goal: Perform a sentiment analysis for the different products to classify them as positive, neutral or negative
+
+Tool Used: NLTK Sentiment analyzer
+
+
