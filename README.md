@@ -5,10 +5,11 @@
 This portfolio shows differents operations and common projects which focus on predicting specific types of values with the use of ML models.
 
 
+<br>
+<br>
 
 
-
-#### Amazon products predictions
+## Amazon products predictions
 
 Description:Description of different products and their associate sellers
 
